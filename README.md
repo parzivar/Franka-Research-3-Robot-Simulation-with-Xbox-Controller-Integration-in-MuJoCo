@@ -1,6 +1,7 @@
 # Intro:
 This package provide a simple Franka arm and Robotiq Gripper simulator written in Mujoco.
 It includes a state-based and a vision-based Franka gear assembly task with xbox controller environment.
+![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=7776618432080307361 skey=@crypt_4b158ffb_db054a24e9d190929e83248be22e3022 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/58a1e9aa-0d5a-4ebf-b07c-4a41940b97a3)
 
 
 tion:
