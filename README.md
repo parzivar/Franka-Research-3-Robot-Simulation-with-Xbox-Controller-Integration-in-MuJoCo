@@ -4,7 +4,7 @@ It includes a state-based and a vision-based Franka gear assembly task with xbox
 ![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=7776618432080307361 skey=@crypt_4b158ffb_db054a24e9d190929e83248be22e3022 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/58a1e9aa-0d5a-4ebf-b07c-4a41940b97a3)
 
 
-tion:
+# Installation:
 - cd into `franka_sim`.
 - In your conda environment, run `pip install -e .` to install this package.
 - run `pip install -r requirements.txt` to install sim dependencies.
