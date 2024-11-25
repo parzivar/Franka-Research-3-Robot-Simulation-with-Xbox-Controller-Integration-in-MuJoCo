@@ -1,9 +1,10 @@
 # Intro:
 This package provide a simple Franka arm and Robotiq Gripper simulator written in Mujoco.
-It includes a state-based and a vision-based Franka lift cube task environment.
+It includes a state-based and a vision-based Franka gear assembly task with xbox controller environment.
 
-# Installation:
-- Fcd into `franka_sim`.
+
+tion:
+- cd into `franka_sim`.
 - In your conda environment, run `pip install -e .` to install this package.
 - run `pip install -r requirements.txt` to install sim dependencies.
 
