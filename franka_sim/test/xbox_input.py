@@ -11,7 +11,7 @@ class XboxInput:
         ensure precision and include dead zones to filter out minor noise.
         
         Author: parzivar
-        Date: YYYY-MM-DD
+        Date: 2024-11-30
         Version: 1.0
         
         Input Mapping:
